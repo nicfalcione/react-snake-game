@@ -9,7 +9,7 @@ exports[`Header component tests should match the snapshot 1`] = `
       class="game-score-wrapper"
     >
       <span
-        class="game-over-name"
+        class="game-header-name"
       >
         Snake
       </span>

@@ -29,20 +29,21 @@ const App = () => {
 
     const update = (time) => {
         requestRef.current = requestAnimationFrame(update);
-        if (isRunning) {
-            if (!lastUpdateTimeRef.current) {
-                lastUpdateTimeRef.current = time;
-            }
-            const deltaTime = time - lastUpdateTimeRef.current;
-            progressTimeRef.current += deltaTime;
-            if (progressTimeRef.current > speed) {
-                dispatch(move());
-                dispatch(checkIfHitSnake());
-                dispatch(checkIfHitApple());
-                progressTimeRef.current = 0;
-            }
+        if (!isRunning) {
+            return;
+        }
+        if (!lastUpdateTimeRef.current) {
             lastUpdateTimeRef.current = time;
         }
+        const deltaTime = time - lastUpdateTimeRef.current;
+        progressTimeRef.current += deltaTime;
+        if (progressTimeRef.current > speed) {
+            dispatch(move());
+            dispatch(checkIfHitSnake());
+            dispatch(checkIfHitApple());
+            progressTimeRef.current = 0;
+        }
+        lastUpdateTimeRef.current = time;
     }
 
     return (

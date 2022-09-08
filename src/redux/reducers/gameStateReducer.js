@@ -64,7 +64,7 @@ export const gameStateReducer = createReducer(defaultState, (builder) => {
                 || state.snakeSegments[0].yPos < 0 || state.snakeSegments[0].yPos > 440) {
                 collision = true;
             } else {
-                for (let i = 0; i < state.snakeSegments.length; i++) {
+                for (let i = 1; i < state.snakeSegments.length; i++) {
                     if (checkForCollision(state.snakeSegments[0].xPos, state.snakeSegments[0].yPos, state.snakeSegments[i].xPos, state.snakeSegments[i].yPos, 10)) {
                         collision = true;
                         break;

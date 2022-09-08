@@ -6,7 +6,7 @@ exports[`Apple Component test should match snapshot 1`] = `
     <div
       class="game-apple"
       data-testid="apple"
-      style="left: 400px;"
+      style="top: 400px; left: 400px;"
     />
   </div>
 </body>

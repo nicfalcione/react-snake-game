@@ -3,6 +3,7 @@ import React from "react";
 import { act } from "react-dom/test-utils";
 import { Provider } from "react-redux";
 import App from '../../App';
+import { gameOver } from "../../redux/actions/gameStateActions";
 import store from '../../redux/store/store';
 
 const setupRender = () => {
@@ -11,7 +12,7 @@ const setupRender = () => {
     );
 }
 
-xdescribe('GameOver Component dialog tests', () => {
+describe('GameOver Component dialog tests', () => {
     it('should not display the GameOver component to the user on', () => {
         const { queryByText } = setupRender();
         expect(queryByText('Game Over!')).not.toBeInTheDocument();
@@ -22,7 +23,7 @@ xdescribe('GameOver Component dialog tests', () => {
         act(() => {
             store.dispatch(gameOver());
         });
-        expect(getByText('Game Over')).toBeInTheDocument();
+        expect(getByText('Game Over!')).toBeInTheDocument();
     });
 
     it('should close GameOver component on click of close button', async () => {

@@ -1,0 +1,3734 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameOver Component dialog tests Matches snapshot 1`] = `
+<div>
+  <div
+    class="app-container"
+  >
+    <div
+      class="game-container"
+    >
+      <div
+        class="game-header"
+      >
+        <div
+          class="game-score-wrapper"
+        >
+          <span
+            class="game-header-name"
+          >
+            Snake
+          </span>
+          <span
+            class="game-score"
+          >
+            Score: 0
+          </span>
+        </div>
+      </div>
+      <div
+        class="board-box"
+        data-testid="game-board"
+      >
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="board-block"
+          style="background-color: white;"
+        />
+        <div
+          class="board-block"
+          style="background-color: whitesmoke;"
+        />
+        <div
+          class="game-snake-segment"
+          style="left: 380px; top: 220px;"
+        />
+        <div
+          class="game-snake-segment"
+          style="left: 360px; top: 220px;"
+        />
+        <div
+          class="game-snake-segment"
+          style="left: 340px; top: 220px;"
+        />
+        <div
+          class="game-apple"
+          data-testid="apple"
+          style="top: 400px; left: 400px;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

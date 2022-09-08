@@ -4,7 +4,7 @@
     "description": " ",
     "main": "index.js",
     "scripts": {
-        "test": "jest  --clearCache && jest --coverage --runInBand --logHeapUsage",
+        "test": "jest --coverage --maxWorkers=5",
         "start": "npx webpack-dev-server --mode development",
         "build": "npx webpack --mode development"
     },

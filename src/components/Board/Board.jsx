@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
+import { DOWN, LEFT, RIGHT, UP } from '../../constants/constants';
 import { pauseGame, resumeGame, setDirection } from '../../redux/actions/gameStateActions';
 import Apple from '../Apple/Apple';
 import BoardBlock from '../BoardBlock/BoardBlock';
@@ -49,14 +50,14 @@ const Board = () => {
         const width = 800;
         const height = 460;
 
-        for (let i = 0; i < height; i++) {
-            for (let j = 0; j < width; j++) {
+        for (let i = 0; i < height; i+=20) {
+            for (let j = 0; j < width; j+=20) {
                 let color = '';
                 if ((j / 20) % 2 === 0 && (i / 20) % 2 === 0) {
                     color = 'white';
-                } else if ((j / 20 ) % 2 === 1 && (i / 20) % 2 === 0) {
+                } else if ((j / 20) % 2 === 1 && (i / 20) % 2 === 0) {
                     color = 'whitesmoke'
-                } else if ((j / 20) % 2 === 0 && (i / 20) === 2 === 1) {
+                } else if ((j / 20) % 2 === 0 && (i / 20) % 2 === 1) {
                     color = 'whitesmoke'
                 } else {
                     color = 'white';

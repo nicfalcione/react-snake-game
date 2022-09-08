@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <div className="game-header">
             <div className="game-score-wrapper">
-                <span className="game-over-name">Snake</span>
+                <span className="game-header-name">Snake</span>
                 <Score score={ score }></Score>
             </div>
         </div>

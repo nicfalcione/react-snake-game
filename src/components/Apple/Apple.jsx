@@ -6,7 +6,7 @@ const Apple = () => {
     
     const { appleXPos, appleYPos } = useSelector((state) => ({
         appleXPos: state.apple.xPos,
-        appleyPos: state.apple.yPos
+        appleYPos: state.apple.yPos
     }));
 
     return (

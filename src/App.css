@@ -1,0 +1,14 @@
+.App {
+    font-family: Verdana, Tahoma, monospace;
+}
+
+.app-container {
+    background-color: green;
+    height: 100vh;
+}
+
+.game-container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

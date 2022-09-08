@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component tests should match the snapshot 1`] = `
+<div>
+  <div
+    class="game-header"
+  >
+    <div
+      class="game-score-wrapper"
+    >
+      <span
+        class="game-over-name"
+      >
+        Snake
+      </span>
+      <span
+        class="game-score"
+      >
+        Score: 0
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SnakeSegment component tests should match snapshot 1`] = `
+<div>
+  <div
+    class="game-snake-segment"
+    style="left: 380px; top: 220px;"
+  />
+  <div
+    class="game-snake-segment"
+    style="left: 360px; top: 220px;"
+  />
+  <div
+    class="game-snake-segment"
+    style="left: 340px; top: 220px;"
+  />
+</div>
+`;

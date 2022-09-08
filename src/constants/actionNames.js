@@ -1,0 +1,10 @@
+export const GAME_OVER = 'GAME_OVER';
+export const PAUSE_GAME = 'PAUSE_GAME';
+export const RESUME_GAME = 'RESUME_GAME';
+export const MOVE = 'MOVE';
+export const SET_DIRECTION = 'SET_DIRECTION';
+export const SET_APPLE_POSITION = 'SET_APPLE_POSITION';
+export const CHECK_IF_HIT_APPLE = 'CHECK_IF_HIT_APPLE';
+export const CHECK_IF_HIT_SNAKE = 'CHECK_IF_HIT_SNAKE';
+export const NEW_GAME = 'NEW_GAME';
+export const INCREASE_SPEED = 'INCREASE_SPEED';
